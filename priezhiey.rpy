@@ -2,7 +2,7 @@ init:
 
     $ mods["Priezprediy"] = u"<Приезжий>"
     define igor = Character(u'Игорь', color="a6a65d", what_color="f1d076",)
-    define pred = Character(u'Председатель', color="d1d689", what_color="f1d076",)
+    define pred = Character(u'Председатель', color="FFD700", what_color="f1d076",)
     define valya = Character(u'Валя', color="018e1f", what_color="f1d076",)
     define sinkin = Character(u'Синкин', color="cacdaa", what_color="f1d076",)
     define olga = Character(u'Ольга', color="857b19", what_color="f1d076",)
