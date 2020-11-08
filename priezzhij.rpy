@@ -1,6 +1,6 @@
 init:
 
-    $ mods["Priezprediy"] = u"<Приезжий>"
+    $ mods["priezzhij"] = u"<Приезжий>"
     define igor = Character(u'Игорь', color="82a65d", what_color="f1d076",)
     define pred = Character(u'Председатель', color="FFD700", what_color="f1d076",)
     define valya = Character(u'Валя', color="018e1f", what_color="f1d076",)
@@ -8,7 +8,7 @@ init:
     define sinkin = Character(u'Синкин', color="cacdaa", what_color="f1d076",)
     define olga = Character(u'Ольга', color="857b19", what_color="f1d076",)
     
-label Priezprediy:
+label priezzhij:
     scene bg ext_clubs_day with dissolve
     "Против председателя сельсовета, боком к столу, утонув в новеньком необъятном кресле сидел не старый еще, седой мужчина в прекрасном светлом костюме, худощавый, чуть хмельной, весело отвечал на вопросы."
     
